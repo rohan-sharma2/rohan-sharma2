@@ -1,7 +1,20 @@
 <img src="/banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-🚀 Web Developer skilled in React, JavaScript, and TypeScript<br>💻 Love building interactive UIs and optimizing web performance<br>🔧 Experience with MERN stack, APIs, and real-time data<br>🏆 Solved 500+ DSA problems in C++<br>🌱 Currently exploring Next.js & advanced React patterns<br>🎯 Believe in clean code, continuous learning & time-bound goals<br>🎵 Built a Pomodoro app that plays music based on mood!
+👨‍💻 SDE Intern @ Expedia Group (PPO offer) – built event-driven data quality pipelines<br>
+🔍 Experienced in Python, SQL, PySpark, Airflow, Django, and React
+<br>
+📊 Solved 800+ DSA problems | LeetCode Knight (Max Rating: 1844) | CodeChef 3⭐ (1688)
+<br>
+🧠 Passionate about data engineering, ML, and backend systems
+<br>
+🔗 Built AI Blog Generator using Llama-3, AssemblyAI & Django
+<br>
+🦾 Created TinyML Smart Glasses for obstacle detection in real-time
+<br>
+📈 Selected for Codeforces Graph Camp – mastered 17+ graph techniques
+<br>
+✨ Love clean code, system design, and scalable backend solutions
 
 
 ## 🌐 Socials:
