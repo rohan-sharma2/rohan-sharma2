@@ -2,11 +2,11 @@
 
 ## 💫 About Me:
 - 👋 Hey! I'm Rohan, a senior at Netaji Subhas University of Technology, pursuing my major in Computer Science and Engineering
-- 👨‍💻 SDE Intern @ Expedia Group (PPO) – built automated data quality checks & monitoring for Teradata → Sync pipeline
+- ✨ Develop sustainable and highly scalable social and technical systems to create impact
+- 👨‍💻 Former SDE Intern @ Expedia Group (PPO) – built automated data quality checks & monitoring for Teradata → Sync pipeline
 - 🔍 Experienced in C++, Java, Python, SQL, PySpark, Airflow, Django, and React
 - 📊 Solved 1000+ DSA problems | LeetCode Knight (Max Rating: 1844) | CodeChef 3⭐ (1688)
 - 🧠 Passionate about data engineering, Machine Learning, and backend systems
-- ✨ Develop sustainable and highly scalable social and technical systems to create impact
 - ⚡ Reach out to me at inforohansharma2@gmail.com
 
 ## 🌐 Connect with me:
