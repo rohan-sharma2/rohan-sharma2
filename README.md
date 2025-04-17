@@ -10,6 +10,8 @@
 🧠 Passionate about data engineering, Machine Learning, and backend systems
 <br>
 ✨ Develop sustainable and highly scalable social and technical systems to create impact
+<br>
+⚡ Reach out to me at inforohansharma2@gmail.com
 
 # 🌐 Connect with me:
 <p align="left">
