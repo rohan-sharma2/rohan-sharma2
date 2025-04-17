@@ -34,6 +34,9 @@
 
 #### **Databases**
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/PySpark-%23007FFF.svg?style=for-the-badge&logo=apachespark&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**
 <img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
