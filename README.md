@@ -1,30 +1,15 @@
-<!-- # Hello World!, I'm Kunal Rawat, a Web Developer 👋🏼 -->
-<img src="https://res.cloudinary.com/ddsqjzrow/image/upload/v1739551661/github-header-image_1_zswabp.png" alt="GitHub Banner" width="100%" />
-<!--
-**kunalrawat19/kunalrawat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/banner.png" alt="GitHub Banner" width="100%" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
 🚀 Web Developer skilled in React, JavaScript, and TypeScript<br>💻 Love building interactive UIs and optimizing web performance<br>🔧 Experience with MERN stack, APIs, and real-time data<br>🏆 Solved 500+ DSA problems in C++<br>🌱 Currently exploring Next.js & advanced React patterns<br>🎯 Believe in clean code, continuous learning & time-bound goals<br>🎵 Built a Pomodoro app that plays music based on mood!
 
 
 ## 🌐 Socials:
-<!-- [![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/kunal298)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rawat-kunal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KunalRa07763972) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalrawat693@gmail.com)  -->
+
 <p align="left">
 <a href="https://twitter.com/kunalra07763972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalra07763972" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rawat-kunal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-rawat-56b00322a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kunal298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal298" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohansharma2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-rawat-56b00322a/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/iamrohansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal298" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kunalrawat693/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kunalrawat693/" height="30" width="40" /></a>
 </p>
 
