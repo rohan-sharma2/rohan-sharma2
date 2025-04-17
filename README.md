@@ -7,14 +7,14 @@
 - 🔍 Experienced in C++, Java, Python, SQL, PySpark, Airflow, Django, and React
 - 📊 Solved 1000+ DSA problems | LeetCode Knight (Max Rating: 1844) | CodeChef 3⭐ (1688)
 - 🧠 Passionate about data engineering, Machine Learning, and backend systems
-- ⚡ Reach out to me at inforohansharma2@gmail.com
+- ⚡ Reach out to me at inforohan-sharma2@gmail.com
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rohansharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohansharma2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sharma2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamrohansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamrohansharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iamrohansharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamrohansharma" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/inforohansharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inforohansharma2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/inforohan-sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inforohan-sharma2" height="30" width="40" /></a>
 </p>
 
 ## 🔧 Technologies & Tools
@@ -50,9 +50,9 @@
 
 ## 📈Github Stats
 <p align="center">
-<a href="https://github.com/rohansharma2">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohansharma2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohansharma2&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/rohan-sharma2">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-sharma2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-sharma2&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
