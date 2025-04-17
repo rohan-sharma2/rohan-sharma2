@@ -48,5 +48,13 @@
 <img height=25 src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white">&nbsp;&nbsp;
 
+## 📈Github Stats
+<p align="center">
+<a href="https://github.com/anusharma1729">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnuSharma1729&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnuSharma1729&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
