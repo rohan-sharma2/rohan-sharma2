@@ -1,4 +1,4 @@
-<img src="/banner.png" alt="GitHub Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1pUbYCZzPlFTEGASL91FBbsTspl3c5KiU/view?usp=drive_link" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 👨‍💻 SDE Intern @ Expedia Group (PPO) – built automated data quality checks & monitoring for Teradata → Sync pipeline
