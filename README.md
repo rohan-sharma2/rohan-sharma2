@@ -24,7 +24,6 @@
 <img height=25 src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
-
 <img height=25 src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
 
 #### 🌐 Web Development  
@@ -39,7 +38,6 @@
 <img height=25 src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">&nbsp;
-
 <img height=25 src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">&nbsp;
 
 #### ⚙️ Frameworks & Big Data  
