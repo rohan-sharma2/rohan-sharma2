@@ -7,7 +7,7 @@
 - 🔍 Experienced in C++, Java, Python, SQL, PySpark, Airflow, Django, and React
 - 📊 Solved 1000+ DSA problems | LeetCode Knight (Max Rating: 1844) | CodeChef 3⭐ (1688)
 - 🧠 Passionate about data engineering, Machine Learning, and backend systems
-- ⚡ Reach out to me at inforohan-sharma2@gmail.com
+- ⚡ Reach out to me at inforohansharma2@gmail.com
 
 ## 🌐 Connect with me:
 <p align="left">
