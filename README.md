@@ -55,6 +55,3 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-sharma2&layout=compact&langs_count=8&theme=catppuccin_latte"/>
 </a>
 </p>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
