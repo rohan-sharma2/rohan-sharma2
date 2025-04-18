@@ -45,7 +45,7 @@
 <img height=25 src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/PySpark-2C2D72?style=for-the-badge&logo=databricks&logoColor=white">&nbsp;
 
-###🗄️ Databases  
+### 🗄️ Databases  
 <img height=25 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">&nbsp;
 
