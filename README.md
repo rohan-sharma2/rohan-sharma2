@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/rohan-sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-sharma2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamrohansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamrohansharma" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iamrohansharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamrohansharma" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/inforohan-sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inforohan-sharma2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/inforohansharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inforohan-sharma2" height="30" width="40" /></a>
 </p>
 
 ## 🔧 Technologies & Tools
