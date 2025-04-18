@@ -23,7 +23,8 @@
 <img height=25 src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
-<img height=25 src="https://www.vectorlogo.zone/logos/java/java-icon.svg">&nbsp;<b>Java</b>&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
+
 <img height=25 src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
 
 #### 🌐 Web Development  
@@ -37,7 +38,8 @@
 #### 🧠 Data & ML Tools  
 <img height=25 src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
 <img height=25 src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
-<img height=25 src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">&nbsp;<b>Matplotlib</b>&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white">&nbsp;
+
 <img height=25 src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">&nbsp;
 
 #### ⚙️ Frameworks & Big Data  
@@ -47,7 +49,7 @@
 
 #### 🗄️ Databases  
 <img height=25 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
-<img height=25 src="https://img.icons8.com/ios-filled/50/000000/microsoft-sql-server.png">&nbsp;<b>SQL Server</b>&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">&nbsp;
 
 #### ☁️ DevOps & Other Tools  
 <img height=25 src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
