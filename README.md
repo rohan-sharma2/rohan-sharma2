@@ -49,7 +49,7 @@
 <img height=25 src="https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white">&nbsp;&nbsp;
 
 ## 📈Github Stats
-<p align="center">
+<p align="left">
 <a href="https://github.com/rohan-sharma2">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohan-sharma2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rohan-sharma2&layout=compact&langs_count=8&theme=algolia"/>
